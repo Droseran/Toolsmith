@@ -2,7 +2,7 @@
 	{
 		"ingredientPattern": "PPP,QSQ,Q_Q",
 		"ingredients": {
-			"S": { "type": "item", "code": "game:saw-*", "isTool": true },
+			"S": { "type": "item", "tags": ["tool-saw"], "isTool": true },
 			"P": { "type": "item", "code": "floralzonescaribbeanregion:plank-*", "quantity" : 3 },
 			"Q": { "type": "item", "code": "floralzonescaribbeanregion:plank-*", "quantity": 2 }
 		},

@@ -2,7 +2,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-plain" }
 		},
 		"width": 2,
@@ -18,7 +18,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-mordant" }
 		},
 		"width": 2,
@@ -34,7 +34,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-blue" }
 		},
 		"width": 2,
@@ -50,7 +50,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-red" }
 		},
 		"width": 2,
@@ -66,7 +66,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-yellow" }
 		},
 		"width": 2,
@@ -82,7 +82,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-green" }
 		},
 		"width": 2,
@@ -98,7 +98,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-purple" }
 		},
 		"width": 2,
@@ -114,7 +114,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-pink" }
 		},
 		"width": 2,
@@ -130,7 +130,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-orange" }
 		},
 		"width": 2,
@@ -146,7 +146,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-brown" }
 		},
 		"width": 2,
@@ -162,7 +162,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-gray" }
 		},
 		"width": 2,
@@ -178,7 +178,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-black" }
 		},
 		"width": 2,
@@ -194,7 +194,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "game:cloth-white" }
 		},
 		"width": 2,
@@ -210,7 +210,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "block", "code": "game:linen-diamond-down" }
 		},
 		"width": 2,
@@ -226,7 +226,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "block", "code": "game:linen-normal-down" }
 		},
 		"width": 2,
@@ -242,7 +242,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "block", "code": "game:linen-offset-down" }
 		},
 		"width": 2,
@@ -258,7 +258,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "block", "code": "game:linen-square-down" }
 		},
 		"width": 2,

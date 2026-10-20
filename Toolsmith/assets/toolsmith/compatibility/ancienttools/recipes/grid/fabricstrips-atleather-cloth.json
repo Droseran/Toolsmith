@@ -2,7 +2,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-acacia" }
 		},
 		"width": 2,
@@ -18,7 +18,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-aged" }
 		},
 		"width": 2,
@@ -34,7 +34,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-baldcypress" }
 		},
 		"width": 2,
@@ -50,7 +50,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-birch" }
 		},
 		"width": 2,
@@ -66,7 +66,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-cypress" }
 		},
 		"width": 2,
@@ -82,7 +82,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-ebony" }
 		},
 		"width": 2,
@@ -98,7 +98,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-kapok" }
 		},
 		"width": 2,
@@ -114,7 +114,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-larch" }
 		},
 		"width": 2,
@@ -130,7 +130,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-maple" }
 		},
 		"width": 2,
@@ -146,7 +146,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-pine" }
 		},
 		"width": 2,
@@ -162,7 +162,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-purpleheart" }
 		},
 		"width": 2,
@@ -178,7 +178,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-redwood" }
 		},
 		"width": 2,
@@ -194,7 +194,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:leather-normal-walnut" }
 		},
 		"width": 2,
@@ -210,7 +210,7 @@
 	{
 		"ingredientPattern": "KC",
 		"ingredients": {
-			"K": { "type": "item", "code": "game:knife-*", "isTool": true },
+			"K": { "type": "item", "tags": ["tool-knife"], "isTool": true },
 			"C": { "type": "item", "code": "ancienttools:buckskin" }
 		},
 		"width": 2,
