@@ -3,8 +3,8 @@
 		"ingredientPattern": "PPP,QSQ,Q_Q",
 		"ingredients": {
 			"S": { "type": "item", "tags": ["tool-saw"], "isTool": true },
-			"P": { "type": "item", "code": "game:plank-*", "quantity" : 3 },
-			"Q": { "type": "item", "code": "game:plank-*", "quantity": 2 }
+			"P": { "type": "item", "code": "*:plank-*", "quantity" : 3 },
+			"Q": { "type": "item", "code": "*:plank-*", "quantity": 2 }
 		},
 		"width": 3,
 		"height": 3,
