@@ -7,7 +7,7 @@
 			"Q": { "type": "item", "code": "*:plank-*", "quantity": 2 }
 		},
 		"allowedVariants": {
-			"rock": [ "granite", "sandstone", "shale", "andesite", ]
+			"rock": [ "granite", "sandstone", "shale", "andesite" ]
 		},
 		"width": 3,
 		"height": 3,
